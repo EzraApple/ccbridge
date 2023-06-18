@@ -1,4 +1,5 @@
 # CCBridge
+![Header](https://github.com/EzraApple/ccbridge/blob/main/Readme%20Logo.png)
 #### Bridging the Gap between Customer and Company
 
 ## Creators
