@@ -108,7 +108,7 @@ REPRESENTATIVE: Name does not match. Please try again.
 
 CUSTOMER: Bilbo Baggins
 
-REPRESENTATIVE: Hello, Bilbo. Welcome to Totally Legit Travel Agency!
+REPRESENTATIVE: Hello, Bilbo. Welcome to Maple Travel Agency!
 
 A challenge I had with the Azure Speech SDK was the fact that I did not have a built-in microphone in my laptop, so I was required to use a webcam or ask another team member to run tests with the code.
 ***
