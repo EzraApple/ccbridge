@@ -4,7 +4,7 @@
 
 ## Creators
 - My name is Ezra Apple and I am 3rd year EECS major at UC Berkeley. I worked on the python scripts that allow the user to chat with the service rep bot. I am very interested in natural language processing and how you can integrate LLMs into various fields and applications. Add me on [LinkedIn](https://www.linkedin.com/in/ezraapple/).
-- Hi, I'm Srikaran Nimmagadda (Sri) and I atttend UC Merced as an CSE major. I worked as the prompt engineer and as the websote developer for the hosting of the project. I have a deep interest in Web Development, AI and Blockchain technoloigies. I hope to continue to grow in bot skill and as a person. Connect with me on [LinkedIn](https://www.linkedin.com/in/snimmagadda9/).
+- Hi, I'm Srikaran Nimmagadda (Sri) and I atttend UC Merced as an CSE major. I worked as the prompt engineer and as the website developer for the hosting of the project. I have a deep interest in Web Development, AI and Blockchain technoloigies. I hope to continue to grow in bot skill and as a person. Connect with me on [LinkedIn](https://www.linkedin.com/in/snimmagadda9/).
 ### Background
 CCBridge is a project that aims to make conversations between customers and companies more seamless and convenient. By utilizing the OpenAI API, customers can easily send inquiries to the customer service provided by gpt-3 and get feedback without having to wait for long periods of time. We also utilize a database (.csv file for this simple example) to store user data. This data is retrieved and included in a system prompt to gpt3 to provide more context and make the responses more personal than the base language model.
 
