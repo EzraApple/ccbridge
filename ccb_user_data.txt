@@ -1,0 +1,11 @@
+UserNum,FirstName,LastName,Age,Income,PhoneNum,Email,Last_Trip_Location,Last_Trip_Rating,Relationship,Kids,Preferred_Activity
+0,John,Smith,22,80000,5551234560,johnsmith@gmail.com,"Paris, France",3,Single,0,Beach Relaxation
+1,Bilbo,Baggins,65,50000,5551234561,bilbobaggins@gmail.com,"Los Angeles, USA",2,Single,0,Cultural Exploration
+2,Jimmy,Neutron,12,30000,5551234562,jimmyneutron@gmail.com,"Cancun, Mexico",4,Single,4,Space Exploration
+3,Barack,Obama,61,400000,5551234563,barackobama@gmail.com,"Barcelona, Spain",5,Married,2,Cultural Exploration
+4,Emily,Anderson,33,45000,5551234564,emilyanderson@gmail.com,"Bangkok, Thailand",4,Single,0,Adventuring
+5,David,Wilson,40,33000,5551234565,davidwilson@gmail.com,"Amsterdam, Netherlands",5,Single,0,Tourist Destinations
+6,Sara,Davis,41,56000,5551234566,saradavis@gmail.com,"Rome, Italy",4,Married,2,Adventuring
+7,Bob,Ross,22,20000,5551234567,bobross@gmail.com,"Sydney, Australia",3,Married,2,Snorkeling
+8,Michael,Jackson,90,170000,5551234568,michaeljackson@gmail.com,"Cancun, Mexico",2,Single,0,Snorkeling
+9,Alexander,Hamilton,65,290000,5551234569,alexanderhamilton@gmail.com,"Rome, Italy",2,Married,0,Beach Relaxation
