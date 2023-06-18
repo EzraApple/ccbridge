@@ -75,7 +75,7 @@ CUSTOMER: Do you have any specific recommendations?
 REPRESENTATIVE: Of course! We recommend destinations such as Barcelona, Spain, which you previously visited and rated 5/5. We also recommend destinations such as Rome, Italy for its amazing architecture and cultural sites, or Tokyo, Japan for its unique cuisine and vibrant culture. We have plenty of other great options as well, so please feel free to call us at (123) 456-7890 or visit our website to explore our full selection of destinations. We look forward to helping you find the perfect destination for your next vacation!
 ***
 ## Website
-
+Our website features a straight to the point no code explnataion of what our project is. Here's our website link: [CC Bridge](https://ccbridge.notion.site/ccbridge/CC-Bridge-1007189336a742a9b4f0c501294c2f7b)
 ***
 ## Speech Recognition
 
