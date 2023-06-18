@@ -21,3 +21,4 @@ Using CCBridge is easy. Follow these steps:
 2. Paste your API Key into the provided field in generate_response.py
 3. To start a conversation from the command line run `python3 customer_service.py`
 4. You will be prompted for an ID number, 0-9 are example users in the .csv user database
+5. You can exit the chat at any time by saying "exit"
