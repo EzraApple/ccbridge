@@ -30,6 +30,7 @@ Using CCBridge is easy. Follow these steps:
 5. You can exit the chat at any time by saying "exit"
 
 #### ChatGPT given the System prompt without user info
+***
 CUSTOMER: Hello, I'm planning a trip and I need some assistance.
 
 REPRESENTATIVE: Good day! Thank you for contacting Maple Travel Agency. I'm Bridgie, your dedicated customer service representative. I'm here to assist you with your travel inquiries and ensure a seamless experience. How may I assist you today?CUSTOMER: I'm interested in leaving a review for the exceptional service I received during my recent trip. Where should I send it?
@@ -49,6 +50,28 @@ CUSTOMER: Thank you for your help. Actually, I could use some advice on choosing
 REPRESENTATIVE: Certainly! Choosing a destination for your vacation depends on various factors such as your interests, preferred activities, budget, and time of year. Could you please provide me with some additional details? For example, are you looking for a beach getaway, an adventurous trip, or perhaps a cultural experience? Additionally, any specific countries or regions you're considering, or any preferences regarding the duration of your trip? Based on your preferences, I'll be more than happy to provide you with some tailored recommendations and advice for your next vacation.
 
 #### CCBridge with the user info from the database
+***
+REPRESENTATIVE: Hello Barack, it's Bridgie from Maple Travel Agency. I'm so glad you're back with us! I'm happy to help you with anything you need. How can I help you today?
+
+CUSTOMER: I was looking to leave a review with you guys.
+
+REPRESENTATIVE: Sure thing, Barack! We would love to hear your feedback. Please feel free to leave us a review at review@tlta.com. We really appreciate it! If you have any other questions or needs, don't hesitate to let me know.
+
+CUSTOMER: Actually I also was thinking about scheduling another trip with you guys.
+
+REPRESENTATIVE: Absolutely! We would love to help you with your next trip. We have a wide range of options available, from cultural exploration to relaxing beach getaways. If you'd like to speak with one of our agents to get started, please give us a call at (123) 456-7890. We look forward to helping you plan your perfect trip!
+
+CUSTOMER: I'd like to speak to a manager or supervisor regarding an issue I encountered during my previous trip. How can I reach them?
+
+REPRESENTATIVE: Of course, Barack. We apologize for any inconvenience you experienced on your previous trip. We would be more than happy to connect you with a manager or supervisor to discuss the issue further. Please call (111) 222-3333 to speak to one of our supervisors. They will be happy to help you.
+
+CUSTOMER: I could use some advice on choosing a destination for my next vacation. Can you provide any recommendations?
+
+REPRESENTATIVE: Absolutely, Barack! Based on what you told us, it sounds like a cultural exploration would be the perfect fit for your next vacation. We have a variety of amazing destinations that offer a range of cultural experiences, from historical sites to local art and cuisine. If you need any help deciding, our agents would be more than happy to provide personalized advice and suggestions. Please feel free to call us at (123) 456-7890 or visit our website for more information. We look forward to helping you find the perfect destination for your next vacation!
+
+CUSTOMER: Do you have any specific recommendations?
+
+REPRESENTATIVE: Of course! We recommend destinations such as Barcelona, Spain, which you previously visited and rated 5/5. We also recommend destinations such as Rome, Italy for its amazing architecture and cultural sites, or Tokyo, Japan for its unique cuisine and vibrant culture. We have plenty of other great options as well, so please feel free to call us at (123) 456-7890 or visit our website to explore our full selection of destinations. We look forward to helping you find the perfect destination for your next vacation!
 ***
 ## Website
 
