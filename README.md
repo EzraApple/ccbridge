@@ -75,7 +75,17 @@ CUSTOMER: Do you have any specific recommendations?
 REPRESENTATIVE: Of course! We recommend destinations such as Barcelona, Spain, which you previously visited and rated 5/5. We also recommend destinations such as Rome, Italy for its amazing architecture and cultural sites, or Tokyo, Japan for its unique cuisine and vibrant culture. We have plenty of other great options as well, so please feel free to call us at (123) 456-7890 or visit our website to explore our full selection of destinations. We look forward to helping you find the perfect destination for your next vacation!
 ***
 ## Website
-Our website features a straight to the point no code explnataion of what our project is. Here's our website link: [CC Bridge](https://ccbridge.notion.site/ccbridge/CC-Bridge-1007189336a742a9b4f0c501294c2f7b)
+The website serves as an informative hub, providing project details without requiring any coding knowledge. I initially built it using Notion and Canva, which allowed for a user-friendly interface and efficient content creation. It has proven to be a great resource for anyone looking to learn more about our project. However, during the development process, I faced certain challenges that I aim to address in the future.
+
+One of the main aspirations for the future is to leverage a proper full-stack framework in order to take the project to the next level. By adopting a comprehensive approach, we can enhance the functionality and user experience of the website. This includes incorporating front-end and back-end technologies to create a seamless and robust system.
+
+In collaboration with my team, we have outlined a plan to further develop the project over the next few months. This involves acquiring proficiency in various technologies essential for full-stack development. Key areas of focus include JavaScript, a versatile programming language widely used for web development, as well as Tailwind CSS, a popular utility-first CSS framework that streamlines the design process.
+
+Additionally, we aim to delve into the world of React, a powerful JavaScript library for building user interfaces. By harnessing its component-based architecture, we can create interactive and dynamic elements on the website. Complementing React, we plan to learn Node.js, a server-side JavaScript runtime environment, to handle the back-end functionalities effectively.
+
+To ensure efficient data management, we intend to gain expertise in MongoDB, a flexible and scalable NoSQL database. Its document-based structure aligns well with the project's requirements, allowing us to store and retrieve data seamlessly.
+
+[CC Bridge](https://ccbridge.notion.site/ccbridge/CC-Bridge-1007189336a742a9b4f0c501294c2f7b)
 ***
 ## Speech Recognition
 
