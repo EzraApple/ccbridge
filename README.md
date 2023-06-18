@@ -88,7 +88,29 @@ To ensure efficient data management, we intend to gain expertise in MongoDB, a f
 [CC Bridge](https://ccbridge.notion.site/ccbridge/CC-Bridge-1007189336a742a9b4f0c501294c2f7b)
 ***
 ## Speech Recognition
+The speech recognition model is trained with a text file containing all registered entries to a database to specifically detect the words within that file. It was constructed using the Azure Speech SDK in Python. Its functions go as follows:
 
+The model asks for the user's ID number. If the number cannot be found, it will ask the user once again for a valid ID number
+If an ID number is found, it will ask the user for their full name to confirm if it matches with the system's entry.
+If the user successfully passes through both levels of verification, they will be able to access the Bridgie system.
+
+In this example, the User with the ID number is entered as "Bilbo Baggins" in the database:
+
+REPRESENTATIVE: Please state your User ID number.
+
+CUSTOMER: 1
+
+REPRESENTATIVE: Please state your name to confirm your identity.
+
+CUSTOMER: Bungo Baggins
+
+REPRESENTATIVE: Name does not match. Please try again.
+
+CUSTOMER: Bilbo Baggins
+
+REPRESENTATIVE: Hello, Bilbo. Welcome to Totally Legit Travel Agency!
+
+A challenge I had with the Azure Speech SDK was the fact that I did not have a built-in microphone in my laptop, so I was required to use a webcam or ask another team member to run tests with the code.
 ***
 ## Future Steps/Ideas
 No project is perfect and ours certianily isn't. Here are some improvments we plan on incluidng over the next few months:
