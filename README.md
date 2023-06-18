@@ -9,6 +9,7 @@ CCBridge is a project that aims to make conversations between customers and comp
 
 This project is set up with an exmaple company and example users w/data. The company is called "Maple Travel Agency" and seeks to set users up with their ideal vacation. User data includes some basic contact info, family info, some information about previous trips, and various interests.
 
+***
 ## Command Line ChatBot
 #### Requirements
 In order to use CCBridge, you will need the following:
@@ -29,6 +30,8 @@ Using CCBridge is easy. Follow these steps:
 ***
 ## Website
 
+***
 ## Speech Recognition
 
+***
 ## Future Steps/Ideas
