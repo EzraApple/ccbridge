@@ -91,3 +91,10 @@ To ensure efficient data management, we intend to gain expertise in MongoDB, a f
 
 ***
 ## Future Steps/Ideas
+No project is perfect and ours certianily isn't. Here are some improvments we plan on incluidng over the next few months:
+
+1. Multilingual Support: Expand Bridgie's capabilities to provide customer support in multiple languages, accommodating a wider range of users and enhancing accessibility.
+
+2. Contextual Understanding: Further develop Bridgie's ability to understand and interpret context from previous interactions, allowing for more personalized and tailored responses.
+
+3. Integration with Customer Data: Integrate Bridgie with customer databases or CRM systems to access relevant customer information, enabling personalized recommendations and proactive support.
