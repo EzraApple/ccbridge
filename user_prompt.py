@@ -32,6 +32,8 @@ def name_validate(text):
         if text in nlist:
             print('Success! Welcome', text, '!')
             break
+        else if text == "Exit":
+            print('Thank you for calling Totally Legit Travel Agency.')
         else:
             print('Name not found, please try again.')
 
