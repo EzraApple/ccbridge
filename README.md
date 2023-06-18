@@ -1,6 +1,6 @@
 # CCBridge
 ![Header](https://github.com/EzraApple/ccbridge/blob/main/Readme%20Logo.png)
-<center> Bridging the Gap between Customer and Company </center>
+<p style="text-align: center;">Bridging the Gap between Customer and Company </p>
 
 ## Creators
 - My name is Ezra Apple and I am 3rd year EECS major at UC Berkeley. I worked on the python scripts that allow the user to chat with the service rep bot. I am very interested in natural language processing and how you can integrate LLMs into various fields and applications. Add me on [LinkedIn](https://www.linkedin.com/in/ezraapple/).
