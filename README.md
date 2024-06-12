@@ -113,7 +113,7 @@ REPRESENTATIVE: Hello, Bilbo. Welcome to Maple Travel Agency!
 A challenge I had with the Azure Speech SDK was the fact that I did not have a built-in microphone in my laptop, so I was required to use a webcam or ask another team member to run tests with the code.
 ***
 ## Future Steps/Ideas
-No project is perfect and ours certianily isn't. Here are some improvments we plan on incluidng over the next few months:
+No project is perfect and ours has room for improvement. Here are some improvements we plan on including:
 
 1. Multilingual Support: Expand Bridgie's capabilities to provide customer support in multiple languages, accommodating a wider range of users and enhancing accessibility.
 
